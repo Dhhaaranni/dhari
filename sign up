@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<tile><h1 style="color:white">SIGN UP</h1></title>
+</head>
+<body style="background-image: url('/home/itlab/Downloads/4.jpeg'); background-size:100%;">
+<form>
+<br><h2 style="colour:white">Username:</h2><br>
+<input type="text" name="name" value="dhari">
+<br><h2 style="colour:white">email id:</h2><br>
+<input type="text" name="name" value="123@gmail.com">
+<br><h2 style="colour:white">Password:</h2><br>
+<input type="text" name="name" value="enter password">
+<br><h2 style="colour:white"> Re-enter Password:</h2><br>
+<input type="text" name="name" value="confirm your password">
+<br>
+<br><a href="slide" class="button">submit</a></br>
+</form> 
+</body>
+</html>

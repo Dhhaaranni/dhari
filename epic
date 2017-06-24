@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.btn-group .button {
+    background-color: #4CAF50; /* Green */
+    border: 1px solid green;
+    color: white;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: right;
+}
+.btn-group .button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+.btn-group .button:hover {
+    background-color: #3e8e41;
+}
+</style>
+<title>Holiday spot</title>
+<link rel="stylesheet" href="mystyles.css">
+</head>
+
+<body style="background-image: url('/home/itlab/Downloads/GV_Hotel.jpg'); background-size:100%;">
+<body>
+<div class="btn-group">
+  <a href="file:///home/itlab/Downloads/sign%20up"> <button class="button">SIGN UP</button>
+ <a href="file:///home/itlab/Downloads/login"> <button class="button">LOG IN</button>
+ </div>
+
+<h1><strong><b>The Epic Plan</b></strong></h1>
+<br><p>Find what brings you joy and go there</p></br>
+<address>
+<h3>created by dhari<br>
+Visit us at:epicplan@gmail.com<br>
+Box 564, tambaram<br>
+Chennai</h3><br></br>
+</address> 
+ 
+</body>
+</html> 
